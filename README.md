@@ -10,7 +10,3 @@ I am following the JavaScript series on the YouTube channel Chai Aur Code by Hit
 Repository Structure
 The repository is organized by video_No., with each directory representing whatever I learnt in that video. Inside each directory, you will find the code files and any related resources.
 
-Each daily directory contains:
-
-    script.js: The JavaScript code written on that day.
-    README.md: A brief explanation of what was learned and implemented.
