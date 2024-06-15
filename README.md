@@ -4,7 +4,7 @@ Welcome to my JavaScript Learning Repository! This repository is a collection of
 
 Introduction
 
-This repository serves as a journal of my journey in learning JavaScript. Here, you will find various exercises, projects, and notes that I have compiled to improve my understanding of JavaScript. My aim is to complete the JavaScript series by June 15.
+This repository serves as a journal of my journey in learning JavaScript. Here, you will find various exercises, projects, and notes that I have compiled to improve my understanding of JavaScript.
 
 I am following the JavaScript series on the YouTube channel Chai Aur Code by Hitesh Choudhary. The series provides comprehensive tutorials and practical examples to learn JavaScript effectively.
 Repository Structure
